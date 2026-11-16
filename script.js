@@ -1,9 +1,9 @@
 /* ============ EDIT THIS BLOCK WITH REAL BUSINESS INFO ============ */
-const IMG=["images/photo-01.webp", "images/photo-02.webp", "images/photo-03.webp", "images/photo-04.webp", "images/photo-05.webp", "images/photo-06.webp"];
-const IMGF=["images/photo-07.webp", "images/photo-08.webp", "images/photo-09.webp", "images/photo-10.webp"];
-const IMGK=["images/photo-11.webp", "images/photo-12.webp", "images/photo-13.webp"];
-const IMGG=["images/photo-14.webp", "images/photo-15.webp", "images/photo-16.webp"];
-const IMGM=["images/photo-17.webp", "images/photo-18.webp"];
+const IMG=["photo-01.webp", "photo-02.webp", "photo-03.webp", "photo-04.webp", "photo-05.webp", "photo-06.webp"];
+const IMGF=["photo-07.webp", "photo-08.webp", "photo-09.webp", "photo-10.webp"];
+const IMGK=["photo-11.webp", "photo-12.webp", "photo-13.webp"];
+const IMGG=["photo-14.webp", "photo-15.webp", "photo-16.webp"];
+const IMGM=["photo-17.webp", "photo-18.webp"];
 const CONFIG={
   whatsapp:"918553526985",
   phone:"+918553526985", email:"",
